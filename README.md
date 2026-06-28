@@ -22,7 +22,7 @@
 ## 安装
 
 ```ruby
-gem "china_admin_divisions", path: "https://github.com/wangliyao/china_admin_divisions"
+gem "china_admin_divisions", git: "https://github.com/wangliyao/china_admin_divisions"
 ```
 
 ## 使用方法
